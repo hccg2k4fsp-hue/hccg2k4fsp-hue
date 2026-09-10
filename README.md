@@ -2,11 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yasmin%20Cappi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Estudante%20de%20ADS%20•%20IA%20•%20Dados&descAlignY=75&descSize=17"/>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:F48FB1&height=3&width=850&section=header"/>
+
 </div>
 
----
-
-## 🧠 Sobre Mim
+## 👩‍💻 Sobre Mim
 
 Estudante de Análise e Desenvolvimento de Sistemas na FIAP e formada em Desenvolvimento de Sistemas pelo SENAI. Tenho interesse pela área de tecnologia, principalmente em Desenvolvimento de Software, Inteligência Artificial e Dados.
 
@@ -16,9 +18,9 @@ Possuo inglês avançado.
 
 Além dos conhecimentos técnicos, venho desenvolvendo habilidades como trabalho em equipe, organização e comunicação. Gosto de aprender coisas novas, explorar novas tecnologias e transformar ideias em projetos.
 
-📌 Busco uma oportunidade de estágio ou início de carreira na área de Tecnologia, especialmente em Desenvolvimento, Inteligência Artificial, Dados ou Suporte/Operações de TI.
+> 📌 Em busca de uma oportunidade de estágio ou início de carreira na área de Tecnologia, especialmente em Desenvolvimento, Inteligência Artificial, Dados ou Suporte/Operações de TI.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:F48FB1&height=3&width=850&section=header"/>
 
 ## ⚡ Tech Stack
 
@@ -28,7 +30,7 @@ Além dos conhecimentos técnicos, venho desenvolvendo habilidades como trabalho
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:F48FB1&height=3&width=850&section=header"/>
 
 ## 🌍 Conecte-se Comigo
 
@@ -42,4 +44,8 @@ Além dos conhecimentos técnicos, venho desenvolvendo habilidades como trabalho
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
